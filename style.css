@@ -13,7 +13,7 @@
   justify-content: space-between;
   width: 25%;
   /* padding-left: 73%; */
-  padding-right: 10px;
+  padding-right: 20px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -25,12 +25,12 @@
 }
 
 .homeLink {
-  padding-left: 10px;
+  padding-left: 20px;
   font-family: 'Open Sans', sans-serif;
 }
 
 .title {
-  background-color: #C2F8CB;
+  background-color: #B3E9C7;
   text-align: center;
   margin-left: -8px;
   margin-right: -8px;
@@ -52,19 +52,22 @@
 }
 
 .missionHead {
+  margin-top: 40px;
   border: 3px solid #5603AD;
   padding: 3px;
   color: #5603AD;
   width: 40%;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .missionButtons {
-  margin-left: 10px;
+  margin-left: 20px;
   color: #5603AD;
   text-decoration: none;
   font-size: 150%;
   width: 30%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .lower {
@@ -76,7 +79,7 @@
 
 .shop {
   background-color: #5603AD;
-  border: 2px solid #C2F8CB;
+  border: 2px solid #B3E9C7;
   padding: 50px;
   margin-top: auto;
   margin-bottom: auto;
