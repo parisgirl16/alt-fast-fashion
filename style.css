@@ -1,13 +1,58 @@
-body {
-  background-color: #C2F8CB;
-  margin: 5%;
+.purple {
+  background-color: #5603AD;
+  margin: -8px;
+  padding: 5px;
 }
 
-h1 {
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 25%;
+  padding-left: 73%;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+  /* padding-top: 5px;
+  padding-bottom: 5px; */
+}
+
+.title {
+  background-color: #C2F8CB;
   text-align: center;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-top: 6px;
+  padding: 60px;
+  font-family: 'EB Garamond', serif;
 }
 
 .about {
-  background-color: #F0FFF1;
+  margin: 12px;
   padding: 5px;
+  font-family: 'Indie Flower', cursive;
+  text-align: right;
+  width: 45%;
+}
+
+.mission {
+  width: 45%;
+}
+
+.missionHead {
+  border: #5603AD;
+  padding: 5px;
+  color: #5603AD;
+}
+
+.lower {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.map {
+  margin-top: 20px;
 }
