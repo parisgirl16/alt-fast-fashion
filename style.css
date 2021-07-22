@@ -37,6 +37,7 @@
   margin-top: 6px;
   padding: 60px;
   font-family: 'EB Garamond', serif;
+  font-size: 250%;
 }
 
 .about {
@@ -79,7 +80,7 @@
 
 .shop {
   background-color: #5603AD;
-  border: 2px solid #B3E9C7;
+  border: 4px solid #B3E9C7;
   padding: 50px;
   margin-top: auto;
   margin-bottom: auto;
