@@ -106,9 +106,11 @@
 
 /* about us page */
 .center {
-  margin: 12px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 5px;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
   width: 45%;
+  
 }
