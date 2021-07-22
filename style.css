@@ -138,3 +138,40 @@
   margin-top: 20px;
 }
 
+.intro {
+  width: 80%;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 40px;
+}
+
+.impactHead {
+  margin-top: 40px;
+  border: 3px solid #5603AD;
+  padding: 3px;
+  color: #5603AD;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.impactSect {
+  width: 40%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.twoSects {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-bottom: 6px solid #5603AD;
+  border-top: 6px solid #5603AD;
+}
+
+.vegan {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans', sans-serif;
+  /* border-bottom: 6px solid #5603AD; */
+}
