@@ -1,5 +1,5 @@
 .purple {
-  background-color: #5603AD;
+  background-color: #5d5c61;
   margin: -8px;
   padding: 5px;
   display: flex;
@@ -30,7 +30,7 @@
 }
 
 .title {
-  background-color: #B3E9C7;
+  background-color: #f1efd6;
   text-align: center;
   margin-left: -8px;
   margin-right: -8px;
@@ -54,9 +54,9 @@
 
 .missionHead {
   margin-top: 40px;
-  border: 3px solid #5603AD;
+  border: 3px solid #5d5c61;
   padding: 3px;
-  color: #5603AD;
+  color: #5d5c61;
   width: 40%;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
@@ -64,7 +64,7 @@
 
 .missionButtons {
   margin-left: 20px;
-  color: #5603AD;
+  color: #5d5c61;
   text-decoration: none;
   font-size: 150%;
   width: 30%;
@@ -75,12 +75,12 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  border-bottom: 6px solid #5603AD;
+  border-bottom: 6px solid #5d5c61;
 }
 
 .shop {
-  background-color: #5603AD;
-  border: 4px solid #B3E9C7;
+  background-color: #5d5c61;
+  border: 4px solid #f1efd6;
   padding: 50px;
   margin-top: auto;
   margin-bottom: auto;
@@ -153,9 +153,9 @@
 
 .impactHead {
   margin-top: 40px;
-  border: 3px solid #5603AD;
+  border: 3px solid #5d5c61;
   padding: 3px;
-  color: #5603AD;
+  color: #5d5c61;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
@@ -169,8 +169,8 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  border-bottom: 6px solid #5603AD;
-  border-top: 6px solid #5603AD;
+  border-bottom: 6px solid #5d5c61;
+  border-top: 6px solid #5d5c61;
 }
 
 .vegan {
